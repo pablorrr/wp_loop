@@ -1,0 +1,17 @@
+FILTROWAC  PETLE MOZNA WG:
+-rodzajow wpisow;posty page , posty  customowe, zalaczniki attachments, any
+-autorow
+-cache- buforowanie
+-kategorii i tagow standardowych i i customowych( taxonomi)
+-daty
+- sortowanie asc desc wg tytulu itd
+- stossowanai i chrinienia haslem
+-ilosc postow na strone
+-wg  parametru search - wynajdduje posty o podanych frazach
+-statusu publikacji
+-taxonomi
+-posty o danych upr dostepowych -np readable do odczytu
+
+
+UWAGA!!!!
+ZWROCIC NAJWIEKSZA uwage na TAXONOMIE ze wzgledu na szerokie mozliwosci zastosowania , DATY ,reszta mozna stosowac na zasadzie dopisywania parametrow klucz wartosc po przecinku w odpowiednim miejscu

@@ -1,0 +1,6 @@
+MIME oznacza wielozadaniowe Internet Mail Extensions. Typy MIME tworz¹ standardowy sposób klasyfikowania typów plików w Internecie. programy internetowe, takie jak serwery WWW i przegl¹darek maj¹ listê typów MIME, aby mog³y przesy³aæ pliki tego samego typu w taki sam sposób, bez wzglêdu na to jaki system operacyjny pracuj¹ w.
+
+
+Typ MIME ma dwie czêœci: typ i podtyp. S¹ one oddzielone ukoœnikiem (/). Na przyk³ad, typ MIME dla plików Microsoft Word jest stosowanie i podtyp jest msword. Wspólnie pe³na typu MIME application / msword.
+
+Chocia¿ nie jest to pe³na lista typów MIME, to nie ma listy rozszerzeñ zwi¹zanych z plikami, ani opis typu pliku. Oznacza to, ¿e jeœli chcesz, aby odnaleŸæ typ MIME dla pewnego rodzaju pliku, mo¿e to byæ trudne. Czasem trzeba spojrzeæ przez liœcie i dokonaæ przypuszczenia co do typu MIME pliku jesteœ zaniepokojony.

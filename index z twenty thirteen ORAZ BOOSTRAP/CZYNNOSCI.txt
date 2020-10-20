@@ -1,0 +1,11 @@
+uwaga!!!
+
+1.przed rizpoczeciem testowania petli
+upewnij sie ze dany tag categoria  wogole istnieje
+2. sprawdz czy dna kategoria , tag , wogole taxonomia ma przypisany jakis ppost
+3 w sekcji usawienia-czytanie ustaw na wyswietlanie jak najwieksza liczbe postow na jednej stronie
+4. sposob na prawidlowe odczytanie id taxonimi :
+- wejssc w szybka edycje danej taxonomi
+-kliknac w link nazzwwy taxomomi
+- odczytac id z pasku adresu
+ UWAGA !!! JELSLI PON ZASTOSOWANIU TYCH KROKOW PETLA NIE DZILA ZGODNIE  Z OCZEKIWANAIAMI SPRAWDZ SYNTAX PETLI, KORZYSTAJ CZESCIEJ Z RELACJI TYPU OR  BO PRINTUJE KILKA ZAPYTAN NA RAZ LEPEIJ INIZ AND

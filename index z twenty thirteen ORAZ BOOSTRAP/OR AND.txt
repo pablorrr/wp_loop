@@ -1,0 +1,3 @@
+OR - oznacza ze abby wyswietlic cokolwiek musi byc spelniony jakikolwiek warunek z podanych np dwoch
+
+AND - jest domyslna relacja , wykona sie gdy posty lub post spelni obydwa warunki na raz np jeden post nalazy do konkretnego  tagu i ten sam post nalezy do konkretnej kategoriiiii!!!!!!!!!!
